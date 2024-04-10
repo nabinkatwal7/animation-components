@@ -28,7 +28,7 @@ const Landing = () => {
           pathLengthFifth,
         ]}
         title="UI Components"
-        description="Build with Aceternity UI"
+        description="Built with Aceternity UI"
       />
     </div>
   );
